@@ -6,4 +6,4 @@ Web Projects with Vanilla Javascript,HTML5/CSS3. No JS or CSS frameworks, no lib
 
 # Useful Resources
 
-1.[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
