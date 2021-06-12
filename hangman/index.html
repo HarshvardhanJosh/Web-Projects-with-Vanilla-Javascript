@@ -2,15 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./style.css" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
     <title>Hangman</title>
   </head>
   <body>
     <h1>Hangman</h1>
-    <p>Find the hidden word- Enter a letter</p>
-
+    <p>Find the hidden word - Enter a letter</p>
     <div class="game-container">
       <svg height="250" width="200" class="figure-container">
         <!-- Rod -->
@@ -42,6 +41,7 @@
     <div class="popup-container" id="popup-container">
       <div class="popup">
         <h2 id="final-message"></h2>
+        <h3 id="final-message-reveal-word"></h3>
         <button id="play-button">Play Again</button>
       </div>
     </div>
@@ -51,6 +51,6 @@
       <p>You have already entered this letter</p>
     </div>
 
-    <script src="./script.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>

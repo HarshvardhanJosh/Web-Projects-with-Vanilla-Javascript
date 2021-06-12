@@ -3,15 +3,15 @@
 }
 
 body {
-  background: #34495e;
+  background-color: #34495e;
   color: #fff;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  height: 90vh;
+  height: 80vh;
   margin: 0;
+  overflow: hidden;
 }
 
 h1 {
@@ -32,9 +32,11 @@ h1 {
   stroke-width: 4px;
   stroke-linecap: round;
 }
+
 .figure-part {
   display: none;
 }
+
 .wrong-letters-container {
   position: absolute;
   top: 20px;
@@ -47,6 +49,7 @@ h1 {
 .wrong-letters-container p {
   margin: 0 0 5px;
 }
+
 .wrong-letters-container span {
   font-size: 24px;
 }
@@ -59,7 +62,7 @@ h1 {
   transform: translateX(-50%);
 }
 
-.letters {
+.letter {
   border-bottom: 3px solid #2980b9;
   display: inline-flex;
   font-size: 30px;
@@ -69,6 +72,7 @@ h1 {
   height: 50px;
   width: 20px;
 }
+
 .popup-container {
   background-color: rgba(0, 0, 0, 0.3);
   position: fixed;
@@ -76,7 +80,7 @@ h1 {
   bottom: 0;
   left: 0;
   right: 0;
-  display: flex;
+  /* display: flex; */
   display: none;
   align-items: center;
   justify-content: center;
@@ -92,7 +96,7 @@ h1 {
 
 .popup button {
   cursor: pointer;
-  background: #fff;
+  background-color: #fff;
   color: #2980b9;
   border: 0;
   margin-top: 20px;
@@ -109,13 +113,14 @@ h1 {
 }
 
 .notification-container {
-  background: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.3);
   border-radius: 10px 10px 0 0;
   padding: 15px 20px;
   position: absolute;
   bottom: -50px;
   transition: transform 0.3s ease-in-out;
 }
+
 .notification-container p {
   margin: 0;
 }
