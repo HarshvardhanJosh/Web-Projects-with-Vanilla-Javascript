@@ -2,7 +2,6 @@
 
 Web Projects with Vanilla Javascript,HTML5/CSS3. No JS or CSS frameworks, no libraries, etc., are used.
 
-- [Course Info Website](https://vanillawebprojects.com)
 
 |  #  |                                                     Project                                                     |                                 Live Demo                                  |
 | :-: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
@@ -21,11 +20,6 @@ Web Projects with Vanilla Javascript,HTML5/CSS3. No JS or CSS frameworks, no lib
 | 13  |     [Speech Text Reader](https://github.com/bradtraversy/vanillawebprojects/tree/master/speech-text-reader)     |  [Live Demo](https://vanillawebprojects.com/projects/speech-text-reader/)  |
 | 14  |           [Memory Cards](https://github.com/bradtraversy/vanillawebprojects/tree/master/memory-cards)           |     [Live Demo](https://vanillawebprojects.com/projects/memory-cards/)     |
 | 15  |        [LyricsSearch App](https://github.com/bradtraversy/vanillawebprojects/tree/master/lyrics-search)         |    [Live Demo](https://vanillawebprojects.com/projects/lyrics-search/)     |
-| 16  |            [Relaxer App](https://github.com/bradtraversy/vanillawebprojects/tree/master/relaxer-app)            |     [Live Demo](https://vanillawebprojects.com/projects//relaxer-app/)     |
-| 17  |          [Breakout Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/breakout-game)          |    [Live Demo](https://vanillawebprojects.com/projects/breakout-game/)     |
-| 18  |     [New Year Countdown](https://github.com/bradtraversy/vanillawebprojects/tree/master/new-year-countdown)     |  [Live Demo](https://vanillawebprojects.com/projects/new-year-countdown/)  |
-| 19  |          [Sortable List](https://github.com/bradtraversy/vanillawebprojects/tree/master/sortable-list)          |    [Live Demo](https://vanillawebprojects.com/projects/sortable-list/)     |
-| 20  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) |  [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 
 # Useful Resources
 
