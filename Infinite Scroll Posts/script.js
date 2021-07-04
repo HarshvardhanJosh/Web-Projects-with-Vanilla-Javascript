@@ -4,16 +4,15 @@ const loading = document.querySelector('.loader');
 
 const filter = document.getElementById('filter');
 
-let limit = 3;
+let limit = 5;
 let page = 1;
 
 async function getPosts(){
-    const response = await fetch(`https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`);
-    const data = await response.json();
+    const res = await fetch(`https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`);
+    const data = await res.json();
 
     return data;
 }
-
 async function showPosts(){
     const posts = await getPosts();
     posts.forEach((post)=>{
@@ -30,17 +29,15 @@ async function showPosts(){
         postContainer.appendChild(postEl);
     })
 }
-
 function showLoading(){
  loading.classList.add('show');
-
  setTimeout(()=>{
     loading.classList.remove('show');
 
     setTimeout(()=>{
         page++;
         showPosts();
-    },3000)
+    },3500)
  },1000)
 }
 function filterPosts(e){
@@ -50,7 +47,6 @@ function filterPosts(e){
     posts.forEach((post)=>{
        const title = post.querySelector('.post-title').innerText.toUpperCase();
        const body = post.querySelector('.post-body').innerText.toUpperCase();
-
         if(title.indexOf(val) > -1 || body.indexOf(val) > -1){
             post.style.display = 'flex';
         } else{
