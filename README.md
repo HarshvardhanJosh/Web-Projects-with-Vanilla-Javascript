@@ -17,7 +17,8 @@ Web Projects with Vanilla Javascript,HTML5/CSS3. No JS or CSS frameworks, no lib
 | 10  |           [Music Player](https://github.com/bradtraversy/vanillawebprojects/tree/master/music-player)           |     [Live Demo](https://vanillawebprojects.com/projects/music-player/)    
 | 11  |           [Infinite Scroll Posts](https://github.com/bradtraversy/vanillawebprojects/tree/master/infinite_scroll_blog)           |     [Live Demo](https://vanillawebprojects.com/projects/infinite_scroll_blog/)
 | 12  |        [Typing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/typing-game)     | [Live Demo](https://vanillawebprojects.com/projects/typing-game/)  |    
-| 13  |        [Speech Text Reader](https://github.com/bradtraversy/vanillawebprojects/tree/master/speech-text-reader) | [Live Demo](https://vanillawebprojects.com/projects/speech-text-reader/)  |    
+| 13  |        [Speech Text Reader](https://github.com/bradtraversy/vanillawebprojects/tree/master/memory-cards) | [Live Demo](https://vanillawebprojects.com/projects/speech-text-reader/)  |    
+| 14  |        [Memory Cards](https://github.com/bradtraversy/vanillawebprojects/tree/master/speech-text-reader) | [Live Demo](https://vanillawebprojects.com/projects/memory-cards/)  |    
 # Useful Resources
 
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
