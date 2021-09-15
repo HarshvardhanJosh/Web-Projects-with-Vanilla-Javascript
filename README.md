@@ -19,6 +19,7 @@ Web Projects with Vanilla Javascript,HTML5/CSS3. No JS or CSS frameworks, no lib
 | 12  |        [Typing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/typing-game)     | [Live Demo](https://vanillawebprojects.com/projects/typing-game/)  |    
 | 13  |        [Speech Text Reader](https://github.com/bradtraversy/vanillawebprojects/tree/master/memory-cards) | [Live Demo](https://vanillawebprojects.com/projects/speech-text-reader/)  |    
 | 14  |        [Memory Cards](https://github.com/bradtraversy/vanillawebprojects/tree/master/speech-text-reader) | [Live Demo](https://vanillawebprojects.com/projects/memory-cards/)  |    
+| 15  |        [Lyrics Search App](https://github.com/bradtraversy/vanillawebprojects/tree/master/lyrics-search) | [Live Demo](https://vanillawebprojects.com/projects/lyrics-search/)  |    
 # Useful Resources
 
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
